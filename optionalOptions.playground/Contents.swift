@@ -7,5 +7,3 @@ if optionalNumber != nil {
     print ("optionalNumber has a value of \(optionalNumber!)")
 }
 
-
-print("fuck")
